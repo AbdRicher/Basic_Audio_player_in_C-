@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726394247 source:c:\users\as's pc\desktop\new folder\audioplayer\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+
